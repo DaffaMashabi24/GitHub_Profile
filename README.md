@@ -127,11 +127,6 @@ status    : 🌴 On vacation & always learning
 ---
 
 
-
-## 📈 Language Usage (Based on Repositories)
-
-
-
 <div align="center">
 
 
