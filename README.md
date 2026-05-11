@@ -21,10 +21,8 @@ focus     : Game Development & Web Development
 status    : 🌴 On vacation & always learning
 ```
 
-- 🔭 Saat ini mengerjakan proyek **Web Programming** di semester 4
-- 🌱 Sedang belajar lebih dalam tentang **HTML, CSS, JavaScript & Web Design**
-- 💡 Tertarik dengan **UI/UX Design** dan **Frontend Development**
-- 📍 Berbasis di **Toulouse** — aktif di GitHub sejak 2024
+- 🌱 Sedang belajar lebih dalam tentang **Game Development, HTML, CSS, JavaScript, Python & Web Design**
+- 💡 Tertarik dengan **Game Development**, **UI/UX Design** dan **Frontend Development**
 - 💬 Feel free to reach out anytime!
 
 ---
