@@ -133,11 +133,6 @@ status    : 🌴 On vacation & always learning
 </div>
 
 
-
----
-
-
-
 ## 🏆 GitHub Trophies
 
 
