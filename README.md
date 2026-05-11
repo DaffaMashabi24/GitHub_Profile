@@ -14,7 +14,7 @@
 
 ```yaml
 name      : Daffa Mashabi
-username  : DaffaMashabi24
+username  : Sierraux
 location  : Toulouse, France 🇫🇷
 education : Bachelor of Informatics
 focus     : Game Development & Web Development
