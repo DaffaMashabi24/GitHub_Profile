@@ -135,25 +135,6 @@ status    : 🌴 On vacation & always learning
 <div align="center">
 
 
-
-> Based on public repositories — primary focus: **Web Development with HTML/CSS**
-
-
-
-| Language   | Usage        | Bar                                                         |
-
-|:----------:|:------------:|:------------------------------------------------------------|
-
-| HTML       | ~85%         | `████████████████████░░░░` |
-
-| CSS        | ~10%         | `██░░░░░░░░░░░░░░░░░░░░░░` |
-
-| JavaScript | ~3%          | `░░░░░░░░░░░░░░░░░░░░░░░░` |
-
-| Markdown   | ~2%          | `░░░░░░░░░░░░░░░░░░░░░░░░` |
-
-
-
 </div>
 
 
