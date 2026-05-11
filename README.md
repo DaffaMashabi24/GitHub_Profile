@@ -118,7 +118,7 @@ status    : 🌴 On vacation & always learning
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sierraux-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sierraux)
-[![Instagram](https://shields.io)](https://www.instagram.com/ekvkaktkql/)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/ekvkaktkql/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daffamashabi24@gmail.com)
 
 </div>
