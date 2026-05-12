@@ -41,7 +41,7 @@ status    : 🌴 On vacation & always learning
 ```
 
 
-- 💡 Currently interested in **Game Development**, **UI/UX Design** dan **Web Deelopmnent**
+- 💡 Currently interested in **Game Development**, **UI/UX Design** dan **Web Developmnent**
 
 - 💬 Feel free to reach out anytime!
 
