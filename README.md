@@ -41,10 +41,7 @@ status    : 🌴 On vacation & always learning
 ```
 
 
-
-- 🌱 Sedang belajar lebih dalam tentang **Game Development, HTML, CSS, JavaScript, Python & Web Design**
-
-- 💡 Tertarik dengan **Game Development**, **UI/UX Design** dan **Frontend Development**
+- 💡 Currently interested in **Game Development**, **UI/UX Design** dan **Web Deelopmnent**
 
 - 💬 Feel free to reach out anytime!
 
